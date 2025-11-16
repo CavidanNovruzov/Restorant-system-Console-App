@@ -13,6 +13,8 @@ public class Program
     {
         Console.OutputEncoding = Encoding.UTF8;
         Console.InputEncoding = Encoding.UTF8;
+        Console.WriteLine();
+        Console.WriteLine();
         Console.WriteLine("      ===Restorant Sistemi=== ");
         Console.WriteLine("------------------------------------");
         Console.WriteLine();
