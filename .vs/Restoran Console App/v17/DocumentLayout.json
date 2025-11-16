@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cavidan\\Desktop\\Senan_VS_Kurs\\Restoran console appp\\Restoran console appp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46719780-60D3-479C-937F-EFE6B1669837}|Restoran Console App.csproj|c:\\users\\cavidan\\desktop\\senan_vs_kurs\\restoran console appp\\restoran console appp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46719780-60D3-479C-937F-EFE6B1669837}|Restoran Console App.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Cavidan\\Desktop\\Senan_VS_Kurs\\Restoran console appp\\Restoran console appp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Cavidan\\Desktop\\Senan_VS_Kurs\\Restoran console appp\\Restoran console appp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAAwIwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T10:15:05.821Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\geniu\Desktop\VS 2022 - C# Tasks\Restoran console appp\bin\Debug\net9.0\Restoran console appp.exe
+C:\Users\geniu\Desktop\VS 2022 - C# Tasks\Restoran console appp\bin\Debug\net9.0\Restoran console appp.deps.json
+C:\Users\geniu\Desktop\VS 2022 - C# Tasks\Restoran console appp\bin\Debug\net9.0\Restoran console appp.runtimeconfig.json
+C:\Users\geniu\Desktop\VS 2022 - C# Tasks\Restoran console appp\bin\Debug\net9.0\Restoran console appp.dll
+C:\Users\geniu\Desktop\VS 2022 - C# Tasks\Restoran console appp\bin\Debug\net9.0\Restoran console appp.pdb
+C:\Users\geniu\Desktop\VS 2022 - C# Tasks\Restoran console appp\obj\Debug\net9.0\Restoran console appp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geniu\Desktop\VS 2022 - C# Tasks\Restoran console appp\obj\Debug\net9.0\Restoran console appp.AssemblyInfoInputs.cache
+C:\Users\geniu\Desktop\VS 2022 - C# Tasks\Restoran console appp\obj\Debug\net9.0\Restoran console appp.AssemblyInfo.cs
+C:\Users\geniu\Desktop\VS 2022 - C# Tasks\Restoran console appp\obj\Debug\net9.0\Restoran console appp.csproj.CoreCompileInputs.cache
+C:\Users\geniu\Desktop\VS 2022 - C# Tasks\Restoran console appp\obj\Debug\net9.0\Restoran console appp.dll
+C:\Users\geniu\Desktop\VS 2022 - C# Tasks\Restoran console appp\obj\Debug\net9.0\refint\Restoran console appp.dll
+C:\Users\geniu\Desktop\VS 2022 - C# Tasks\Restoran console appp\obj\Debug\net9.0\Restoran console appp.pdb
+C:\Users\geniu\Desktop\VS 2022 - C# Tasks\Restoran console appp\obj\Debug\net9.0\Restoran console appp.genruntimeconfig.cache
+C:\Users\geniu\Desktop\VS 2022 - C# Tasks\Restoran console appp\obj\Debug\net9.0\ref\Restoran console appp.dll

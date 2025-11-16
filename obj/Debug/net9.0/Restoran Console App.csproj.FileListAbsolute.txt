@@ -1,0 +1,28 @@
+C:\Users\geniu\Desktop\VS 2022 - C# Tasks\Restoran console appp\obj\Debug\net9.0\Restoran Console App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geniu\Desktop\VS 2022 - C# Tasks\Restoran console appp\obj\Debug\net9.0\Restoran Console App.AssemblyInfoInputs.cache
+C:\Users\geniu\Desktop\VS 2022 - C# Tasks\Restoran console appp\obj\Debug\net9.0\Restoran Console App.AssemblyInfo.cs
+C:\Users\geniu\Desktop\VS 2022 - C# Tasks\Restoran console appp\obj\Debug\net9.0\Restoran Console App.csproj.CoreCompileInputs.cache
+C:\Users\geniu\Desktop\VS 2022 - C# Tasks\Restoran console appp\bin\Debug\net9.0\Restoran Console App.exe
+C:\Users\geniu\Desktop\VS 2022 - C# Tasks\Restoran console appp\bin\Debug\net9.0\Restoran Console App.deps.json
+C:\Users\geniu\Desktop\VS 2022 - C# Tasks\Restoran console appp\bin\Debug\net9.0\Restoran Console App.runtimeconfig.json
+C:\Users\geniu\Desktop\VS 2022 - C# Tasks\Restoran console appp\bin\Debug\net9.0\Restoran Console App.dll
+C:\Users\geniu\Desktop\VS 2022 - C# Tasks\Restoran console appp\bin\Debug\net9.0\Restoran Console App.pdb
+C:\Users\geniu\Desktop\VS 2022 - C# Tasks\Restoran console appp\obj\Debug\net9.0\Restoran Console App.dll
+C:\Users\geniu\Desktop\VS 2022 - C# Tasks\Restoran console appp\obj\Debug\net9.0\refint\Restoran Console App.dll
+C:\Users\geniu\Desktop\VS 2022 - C# Tasks\Restoran console appp\obj\Debug\net9.0\Restoran Console App.pdb
+C:\Users\geniu\Desktop\VS 2022 - C# Tasks\Restoran console appp\obj\Debug\net9.0\Restoran Console App.genruntimeconfig.cache
+C:\Users\geniu\Desktop\VS 2022 - C# Tasks\Restoran console appp\obj\Debug\net9.0\ref\Restoran Console App.dll
+C:\Users\Cavidan\Desktop\Senan_VS_Kurs\Restoran console appp\Restoran console appp\bin\Debug\net9.0\Restoran Console App.exe
+C:\Users\Cavidan\Desktop\Senan_VS_Kurs\Restoran console appp\Restoran console appp\bin\Debug\net9.0\Restoran Console App.deps.json
+C:\Users\Cavidan\Desktop\Senan_VS_Kurs\Restoran console appp\Restoran console appp\bin\Debug\net9.0\Restoran Console App.runtimeconfig.json
+C:\Users\Cavidan\Desktop\Senan_VS_Kurs\Restoran console appp\Restoran console appp\bin\Debug\net9.0\Restoran Console App.dll
+C:\Users\Cavidan\Desktop\Senan_VS_Kurs\Restoran console appp\Restoran console appp\bin\Debug\net9.0\Restoran Console App.pdb
+C:\Users\Cavidan\Desktop\Senan_VS_Kurs\Restoran console appp\Restoran console appp\obj\Debug\net9.0\Restoran Console App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cavidan\Desktop\Senan_VS_Kurs\Restoran console appp\Restoran console appp\obj\Debug\net9.0\Restoran Console App.AssemblyInfoInputs.cache
+C:\Users\Cavidan\Desktop\Senan_VS_Kurs\Restoran console appp\Restoran console appp\obj\Debug\net9.0\Restoran Console App.AssemblyInfo.cs
+C:\Users\Cavidan\Desktop\Senan_VS_Kurs\Restoran console appp\Restoran console appp\obj\Debug\net9.0\Restoran Console App.csproj.CoreCompileInputs.cache
+C:\Users\Cavidan\Desktop\Senan_VS_Kurs\Restoran console appp\Restoran console appp\obj\Debug\net9.0\Restoran Console App.dll
+C:\Users\Cavidan\Desktop\Senan_VS_Kurs\Restoran console appp\Restoran console appp\obj\Debug\net9.0\refint\Restoran Console App.dll
+C:\Users\Cavidan\Desktop\Senan_VS_Kurs\Restoran console appp\Restoran console appp\obj\Debug\net9.0\Restoran Console App.pdb
+C:\Users\Cavidan\Desktop\Senan_VS_Kurs\Restoran console appp\Restoran console appp\obj\Debug\net9.0\Restoran Console App.genruntimeconfig.cache
+C:\Users\Cavidan\Desktop\Senan_VS_Kurs\Restoran console appp\Restoran console appp\obj\Debug\net9.0\ref\Restoran Console App.dll
